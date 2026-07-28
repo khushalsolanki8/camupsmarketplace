@@ -578,10 +578,15 @@ app.use((req, res) => {
   res.sendFile(path.join(__dirname, '../frontend/dist', 'index.html'));
 });
 
-// Listen on designated port
-app.listen(PORT, () => {
-  console.log(`=======================================================`);
-  console.log(` CampusSwap Server running at: http://localhost:${PORT}`);
-  console.log(` Serve static assets & API integration dynamically`);
-  console.log(`=======================================================`);
-});
+// Export app for Vercel Serverless Function compatibility
+module.exports = app;
+
+if (require.main === module) {
+  // Listen on designated port
+  app.listen(PORT, () => {
+    console.log(`=======================================================`);
+    console.log(` CampusSwap Server running at: http://localhost:${PORT}`);
+    console.log(` Serve static assets & API integration dynamically`);
+    console.log(`=======================================================`);
+  });
+}
