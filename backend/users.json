@@ -1,0 +1,50 @@
+[
+  {
+    "id": "usr_4a684c792c12a4a1",
+    "name": "Alex",
+    "email": "alex@college.edu",
+    "passwordHash": "6faba6e4ed724c5b54fad19eca98923e2198cdbba78db5e74672c83217fb33a6",
+    "avatarColor": "#ec4899",
+    "createdAt": "2026-06-25T17:44:34.595Z"
+  },
+  {
+    "id": "usr_7f7ab1cd3f6e975a",
+    "name": "khushal",
+    "email": "khushalsolanki@gamil.com",
+    "passwordHash": "1d514dfb2af58cc8b468b14f5cb9f143bb166271c8018829360109cca8d8a188",
+    "avatarColor": "#ec4899",
+    "createdAt": "2026-06-25T18:00:13.851Z"
+  },
+  {
+    "id": "usr_739d1f89f29f292b",
+    "name": "testuser",
+    "email": "test@college.edu",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "avatarColor": "#8b5cf6",
+    "createdAt": "2026-06-27T17:31:47.616Z"
+  },
+  {
+    "id": "usr_b82ab1d4fcab6105",
+    "name": "khushal",
+    "email": "khushalsolanki453@gmail.com",
+    "passwordHash": "7f8895856ad6151038cfc6c53d968975183aac46a2fa6de1d06a0a8c2bffa2f2",
+    "avatarColor": "#8b5cf6",
+    "createdAt": "2026-06-27T17:33:19.193Z"
+  },
+  {
+    "id": "usr_0d48f054c29ac19a",
+    "name": "Alice",
+    "email": "alice@college.edu",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "avatarColor": "#8b5cf6",
+    "createdAt": "2026-07-11T09:16:55.173Z"
+  },
+  {
+    "id": "usr_432089d70f69144a",
+    "name": "factxyz51",
+    "email": "factxyz51@gmail.com",
+    "passwordHash": "1d514dfb2af58cc8b468b14f5cb9f143bb166271c8018829360109cca8d8a188",
+    "avatarColor": "#8b5cf6",
+    "createdAt": "2026-07-11T09:42:35.897Z"
+  }
+]

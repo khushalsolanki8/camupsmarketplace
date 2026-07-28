@@ -1,0 +1,110 @@
+[
+  {
+    "id": "chat_92d2915c9d234598",
+    "listingId": 1,
+    "listingTitle": "Thomas' Calculus (14th Edition) - Pearson",
+    "price": 950,
+    "buyerId": "usr_0d48f054c29ac19a",
+    "buyerName": "Alice",
+    "buyerAvatarColor": "#8b5cf6",
+    "sellerId": "mock_arjun",
+    "sellerName": "Arjun M. (Senior)",
+    "sellerAvatarColor": "#8b5cf6",
+    "messages": [
+      {
+        "senderId": "usr_0d48f054c29ac19a",
+        "senderName": "Alice",
+        "text": "Hi, is \"Thomas' Calculus (14th Edition) - Pearson\" still available?",
+        "timestamp": "2026-07-11T09:17:07.957Z"
+      },
+      {
+        "senderId": "mock_arjun",
+        "senderName": "Arjun M. (Senior)",
+        "text": "Hey! Yes, the \"Thomas' Calculus (14th Edition) - Pearson\" is still available. I'm looking to sell it soon. Would you like to meet on campus to check it out?",
+        "timestamp": "2026-07-11T09:17:09.473Z"
+      },
+      {
+        "senderId": "usr_0d48f054c29ac19a",
+        "senderName": "Alice",
+        "text": "Hi, is this item still available and can we meet at the library?",
+        "timestamp": "2026-07-11T09:17:26.051Z"
+      },
+      {
+        "senderId": "mock_arjun",
+        "senderName": "Arjun M. (Senior)",
+        "text": "Hey! Yes, the \"Thomas' Calculus (14th Edition) - Pearson\" is still available. I'm looking to sell it soon. Would you like to meet on campus to check it out?",
+        "timestamp": "2026-07-11T09:17:27.558Z"
+      }
+    ],
+    "createdAt": "2026-07-11T09:17:07.841Z",
+    "updatedAt": "2026-07-11T09:17:27.558Z"
+  },
+  {
+    "id": "chat_9f3ae1b9f50ab4bb",
+    "listingId": 2,
+    "listingTitle": "Intro to Algorithms (CLRS) - 3rd Edition",
+    "price": 1200,
+    "buyerId": "usr_432089d70f69144a",
+    "buyerName": "factxyz51",
+    "buyerAvatarColor": "#8b5cf6",
+    "sellerId": "mock_preeti",
+    "sellerName": "Preeti K. (Junior)",
+    "sellerAvatarColor": "#ec4899",
+    "messages": [
+      {
+        "senderId": "usr_432089d70f69144a",
+        "senderName": "factxyz51",
+        "text": "Hi, is \"Intro to Algorithms (CLRS) - 3rd Edition\" still available?",
+        "timestamp": "2026-07-11T09:43:13.873Z"
+      },
+      {
+        "senderId": "mock_preeti",
+        "senderName": "Preeti K. (Junior)",
+        "text": "Hey! Yes, the \"Intro to Algorithms (CLRS) - 3rd Edition\" is still available. I'm looking to sell it soon. Would you like to meet on campus to check it out?",
+        "timestamp": "2026-07-11T09:43:15.381Z"
+      }
+    ],
+    "createdAt": "2026-07-11T09:43:13.823Z",
+    "updatedAt": "2026-07-11T09:43:15.381Z"
+  },
+  {
+    "id": "chat_83ca13e651010304",
+    "listingId": 3,
+    "listingTitle": "Organic Chemistry Lecture Notes (A+ Grade)",
+    "price": 350,
+    "buyerId": "usr_432089d70f69144a",
+    "buyerName": "factxyz51",
+    "buyerAvatarColor": "#8b5cf6",
+    "sellerId": "mock_rahul",
+    "sellerName": "Rahul S. (Senior)",
+    "sellerAvatarColor": "#10b981",
+    "messages": [
+      {
+        "senderId": "usr_432089d70f69144a",
+        "senderName": "factxyz51",
+        "text": "Hi, is \"Organic Chemistry Lecture Notes (A+ Grade)\" still available?",
+        "timestamp": "2026-07-11T09:43:15.953Z"
+      },
+      {
+        "senderId": "mock_rahul",
+        "senderName": "Rahul S. (Senior)",
+        "text": "Hey! Yes, the \"Organic Chemistry Lecture Notes (A+ Grade)\" is still available. I'm looking to sell it soon. Would you like to meet on campus to check it out?",
+        "timestamp": "2026-07-11T09:43:17.460Z"
+      },
+      {
+        "senderId": "usr_432089d70f69144a",
+        "senderName": "factxyz51",
+        "text": "how much this book price",
+        "timestamp": "2026-07-11T09:43:35.068Z"
+      },
+      {
+        "senderId": "mock_rahul",
+        "senderName": "Rahul S. (Senior)",
+        "text": "I think the price is pretty fair given its condition, but I could do a small discount if we meet today. What price were you thinking?",
+        "timestamp": "2026-07-11T09:43:36.580Z"
+      }
+    ],
+    "createdAt": "2026-07-11T09:43:15.914Z",
+    "updatedAt": "2026-07-11T09:43:36.580Z"
+  }
+]
